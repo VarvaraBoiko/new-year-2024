@@ -1,0 +1,42 @@
+
+header{
+   background-color: rgb(247, 40, 40);
+   display: flex;
+   justify-content: center;
+}
+footer{
+   background-color: rgba(24, 111, 9, 0.985);
+   display: flex;
+   justify-content: center
+}
+.fire-works{
+    margin: 0 auto;
+    text-align: center;
+    width: 300px;
+    display: block;
+   }
+   .nav-list{
+     display: flex;
+     flex-direction: row;
+     gap: 100px
+   }
+   .here{
+    justify-content: center;
+    margin-left: 40%;
+   }
+   .h2{
+      display: flex;
+      margin-left: 45%;
+   }
+   .h3{
+      display: flex;
+      margin-left: 40%;   
+   }
+  .santa-p{
+   align-self: top;
+  }
+  .santa{
+   display: flex;
+   align-items: center;
+  }
+ 
